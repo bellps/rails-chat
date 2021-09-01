@@ -29,6 +29,8 @@
 /config/master.key
 /config/database.yml
 
+/db/schema.rb
+
 /public/packs
 /public/packs-test
 /node_modules
@@ -37,3 +39,4 @@ yarn-debug.log*
 .yarn-integrity
 .ruby-version
 .nvmrc
+dump.rdb

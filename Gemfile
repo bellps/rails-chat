@@ -22,6 +22,9 @@ gem 'redis', '~> 4.0'
 gem 'redis-namespace'
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1.7'
+gem 'devise', '~> 4.8'
+gem 'slim-rails', '~> 3.3'
+gem 'simple_form', '~> 5.1'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
